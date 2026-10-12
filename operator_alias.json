@@ -1,0 +1,38 @@
+{
+  "_说明": "运营方别名表：teambition 标题里的中文运营方 -> D:\\UnityOutput 下实际的目录名。脚本查找顺序：本表 -> 本地已存在目录 -> 下面的 _operators 名单 -> 拼音。",
+  "_operators_说明": "运营方目录名单（标准写法）。新人的电脑上还没有这些目录时，靠这份名单才能把『叶子』正确建成本来就有的 Yezi，而不是拼音推出来的 YeZi。新增运营方时记得往这里加一条。",
+  "_operators": [
+    "BiaoYue",
+    "ChenZhiQing",
+    "ChenZhiWen",
+    "LongXiangYou",
+    "LuZong",
+    "SunBo_BoHuan",
+    "WanBan",
+    "WanBianTi",
+    "WanShiRong",
+    "XiaMen",
+    "Yezi",
+    "ZhiDianTianXia"
+  ],
+  "_hw_sign_folders_说明": "华为/荣耀的签名不按工程名，而是按运营方放在『1.华为-rpk（各运营签名文件）』下。左 = UnityOutput 里的运营方目录，右 = 该目录下的签名文件夹。12 个运营方已全部对上。",
+  "_hw_sign_folders": {
+    "BiaoYue": "标越",
+    "ChenZhiQing": "陈志晴",
+    "ChenZhiWen": "陈志文",
+    "LongXiangYou": "龙翔游",
+    "LuZong": "路总",
+    "SunBo_BoHuan": "博恒",
+    "WanBan": "玩伴",
+    "WanBianTi": "玩变体",
+    "WanShiRong": "冰天",
+    "XiaMen": "厦门",
+    "Yezi": "深圳烨子",
+    "ZhiDianTianXia": "指点天下"
+  },
+  "厦门": "XiaMen",
+  "孙波": "SunBo_BoHuan",
+  "博恒": "SunBo_BoHuan",
+  "博欢": "SunBo_BoHuan",
+  "孙波博恒": "SunBo_BoHuan"
+}
